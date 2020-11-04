@@ -1,0 +1,5 @@
+﻿  UnitTest5.4.cpp
+D:\Student\lab5.4\lab5.4\lab5_4.cpp(9,12): warning C4244: инициализация: преобразование "const double" в "int", возможна потеря данных
+D:\Student\lab5.4\lab5.4\lab5_4.cpp(49,9): warning C4101: i: неиспользованная локальная переменная
+     Создается библиотека D:\Student\lab5.4\Debug\UnitTest5.4.lib и объект D:\Student\lab5.4\Debug\UnitTest5.4.exp
+  UnitTest5.4.vcxproj -> D:\Student\lab5.4\Debug\UnitTest5.4.dll
